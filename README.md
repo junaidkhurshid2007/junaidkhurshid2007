@@ -1,5 +1,5 @@
 - 👋 Hi, I’m junaid.
 - 👀 I’m interested in biology, linx and python.
-- 🌱 I’m currently learning linux, https://www.youtube.com/c/NetworkChuck
+- 🌱 Start coding https://www.youtube.com/c/NetworkChuck
 - 💞️ I’m looking forward to collaborate on bots and other interactive stuff.
 - 📫 Yall can reach me on https://discord.gg/pvac92mCSP
