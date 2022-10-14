@@ -1,5 +1,2 @@
-- 👋 Hi, I’m junaid.
-- 👀 I’m interested in biology, linx and python.
-- 🌱 Start coding https://www.youtube.com/c/NetworkChuck
-- 💞️ I’m looking forward to collaborate on bots and other interactive stuff.
-- 📫 Yall can reach me on https://discord.gg/pvac92mCSP
+👋 Hi,
+Iam kinda good in Biology and Physics (O-levels), for any free help just dm me :)
